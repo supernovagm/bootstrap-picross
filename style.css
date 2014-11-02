@@ -1,0 +1,22 @@
+body {
+	background-color: #AAA;
+}
+
+.case {
+	background-color: #FFFFFF;
+	margin: 1px;
+	width: 25px;
+	height: 25px;
+}
+
+.case:hover {
+	background-color: #0000AA;	
+}
+
+.check-type-0 {
+	background-color: #FF0000;
+}
+
+.check-type-1 {
+	background-color: #FF00FF;
+}
